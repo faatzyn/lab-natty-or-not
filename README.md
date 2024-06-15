@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+## PODCAST
+# CAPA 
+Imagens obtidas/geradas em Lexica.art/Midjourney;
 
-## 🚀 Introdução
+### CONTENT ChatGPT
+# Nome do podcast
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focando em front end e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end nerd e que tenha algum trocadilho nerd no nome.
 
-> Woooow! Look at this 👀
+O Podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+{REGRAS}
+* O Nome deve ser enxuto, um nome e um subtítulo;
+* O Nome tenha  algum trocadilho nerd com nome de franquias conhecidas, como Harry Potter, Star Wars...;
+* O Nome deve conter alguma palavra forte que remeta a front end;
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+{REGRAS NEGATIVAS}
+* Nome não pode conter palavras em inglês;
+* Não quero que utilize nenhuma das palavras nessa lista: javascript, devoloper, programador;
 
-### Objetivos
+Sugeridos:
+* O Front do Futuro: "Desbravando as Novidades Tecnológicas"
+* Matrix do CSS: "Descodificando o Design do Front End"
+* Front Wars: "A Batalha das Melhores Práticas e Tecnologias"
+* O Guia do Mochileiro do Front: "Dicas Essenciais para Desenvolvedores" -> Mais gostei
+* Código dos Anéis: "Os Segredos do Front End Revelados"
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Aúdios 
+Gerados por IA Evenlabs
